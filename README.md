@@ -36,6 +36,8 @@
 <br />
 <br />
 
+![Archit's github stats](https://github-readme-stats.vercel.app/api?username=rarchit&count_private=true&theme=dracula&include_all_commits=true)
+
 [instagram]: https://www.instagram.com/rchitgupta/
 [linkedin]: https://linkedin.com/in/rarchit-gupta
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
