@@ -38,7 +38,7 @@
 
 ## GitHub Stats
 
-![Archit's github stats](https://github-readme-stats.vercel.app/api?username=rarchitgupta&count_private=true&theme=dracula&include_all_commits=true&hide=starts,issues&show_icons=true)
+![Archit's github stats](https://github-readme-stats.vercel.app/api?username=rarchitgupta&count_private=true&theme=dracula&include_all_commits=true&hide=stars,issues&show_icons=true)
 
 [instagram]: https://www.instagram.com/rchitgupta/
 [linkedin]: https://linkedin.com/in/rarchit-gupta
