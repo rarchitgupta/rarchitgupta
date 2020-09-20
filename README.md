@@ -1,4 +1,4 @@
-### Hi there, I'm Archit👋
+# Hi there, I'm Archit👋
 
 
 ## I'm a Student and an Aspiring Developer
