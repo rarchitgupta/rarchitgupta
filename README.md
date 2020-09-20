@@ -36,6 +36,8 @@
 <br />
 <br />
 
+## GitHub Stats
+
 ![Archit's github stats](https://github-readme-stats.vercel.app/api?username=rarchitgupta&count_private=true&theme=dracula&include_all_commits=true)
 
 [instagram]: https://www.instagram.com/rchitgupta/
