@@ -3,8 +3,8 @@
 
 ## I'm a Student and an Aspiring Developer
 
-- :mortar_board: I'm currently pursuing a B. Tech in Information Technology from Manipal Institute Of Technology
-- 👯 I’m looking to collaborate with other content creators
+- :mortar_board: I'm currently pursuing a **B. Tech in Information Technology** from **Manipal Institute Of Technology**
+- 👯 I’m looking to work with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 
