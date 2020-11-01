@@ -1,7 +1,7 @@
 # Hi there, I'm Archit👋
 
 
-## I'm a Student and an Aspiring Developer
+## I'm a Student and an Aspiring Software Engineer
 
 - :mortar_board: I'm currently pursuing a **B. Tech in Information Technology** from **Manipal Institute Of Technology**
 - 👯 I’m looking to work with other developers
