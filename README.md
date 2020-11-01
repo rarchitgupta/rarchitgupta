@@ -43,7 +43,7 @@
 
 ## GitHub Stats
 
-![Archit's github stats](https://github-readme-stats.vercel.app/api?username=rarchitgupta&count_private=true&theme=dracula&include_all_commits=true&hide=stars,issues&show_icons=true)
+![Archit's github stats](https://github-readme-stats.vercel.app/api?username=rarchitgupta&count_private=true&theme=algolia&include_all_commits=true&hide=stars,issues&show_icons=true)
 
 [instagram]: https://www.instagram.com/rchitgupta/
 [linkedin]: https://linkedin.com/in/rarchit-gupta
@@ -51,4 +51,8 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rarchitgupta&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
