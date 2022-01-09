@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rarchitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="rarchitgupta" style="height: 20px; width: auto;"/> </p>
 
 
-## I'm a Student and an Aspiring Software Engineer
+## I'm a Student and a Developer
 
 - :mortar_board: I'm currently pursuing a **B. Tech in Information Technology** from **Manipal Institute Of Technology**
 - 👯 I’m looking to work with other developers
