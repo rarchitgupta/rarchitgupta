@@ -1,5 +1,4 @@
-# Hi there, I'm Archit <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-
+# Hi there, I'm Archit
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rarchitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="rarchitgupta" style="height: 20px; width: auto;"/> </p>
 
 
