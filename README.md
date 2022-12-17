@@ -2,12 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rarchitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="rarchitgupta" style="height: 20px; width: auto;"/> </p>
 
 
-## I'm a Student and a Developer
+## I'm a Developer
 
 - :mortar_board: I'm a 2022 graduate with a **B. Tech in Information Technology** from **Manipal Institute Of Technology**
 - 👯 I’m looking to work with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects and add to my skills
-- 🌐 Check my website out at the following [**link**](https://architgupta.tech/)
 
 ### Connect with me:
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/rchitgupta)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/rarchit-gupta/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/rchitgupta/)  &nbsp; <a href="mailto:rarchitgupta@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
