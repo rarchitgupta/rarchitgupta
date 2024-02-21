@@ -1,15 +1,14 @@
 # Hi there, I'm Archit
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rarchitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="rarchitgupta" style="height: 20px; width: auto;"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rarchitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="rarchitgupta" style="height: 24px; width: auto; background-color: "#38B2AC";"/> </p>
 
 
-## I'm a Developer
+## I'm a Software Engineer
 
 - :mortar_board: I'm a 2022 graduate with a **B. Tech in Information Technology** from **Manipal Institute Of Technology**
-- 👯 I’m looking to work with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects and add to my skills
+- 👯 I’m looking to work and collaborate with other engineers
 
 ### Connect with me:
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/rchitgupta)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/rarchit-gupta/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/rchitgupta/)  &nbsp; <a href="mailto:rarchitgupta@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/rchitgupta)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/rarchit-gupta/)  &nbsp;   <a href="mailto:rarchitgupta@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 
 ### Languages and Tools:
@@ -31,12 +30,5 @@
 ## GitHub Stats
 
 ![Archit's github stats](https://github-readme-stats.vercel.app/api?username=rarchitgupta&count_private=true&include_all_commits=true&hide=stars,issues&show_icons=true)
-
-[instagram]: https://www.instagram.com/rchitgupta/
-[linkedin]: https://linkedin.com/in/rarchit-gupta
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 
