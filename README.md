@@ -3,21 +3,14 @@
 
 I'm **Archit Gupta**, a software engineer
 
-- I'm a 2022 graduate with a **B. Tech in Information Technology** from **Manipal Institute Of Technology**
+- I'm a **Master's in Computer Science** graduate with a from **North Carolina State University**
+- I also graduated with a **B. Tech in Information Technology** from **Manipal Institute Of Technology**
 - I’m looking to work and collaborate with other engineers
-- I'm currently pursuing my **Master's in Computer Science** from **North Carolina State University**
-- I've mainly worked with **Python** and **JavaScript / TypeScript**, on either end of the stack
-- Currently picking up **Ruby** as part of a course
+- I've mainly worked with **Python** and **JavaScript / TypeScript**, on full-stack applications
 
-I'm passionate about building robust applications with a clean UI, currently using my time at graduate school to learn about scaling software and best patterns and practices
-
+I'm passionate about building robust applications with a clean UI, currently upskilling with AI augmented development and learning how to build my own agents
 
 ### Connect with me:
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/rchitgupta)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/rarchit-gupta/)  &nbsp;   <a href="mailto:rarchitgupta@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-
-
-### Stats
-
-![Archit's github stats](https://github-readme-stats.vercel.app/api?username=rarchitgupta&count_private=true&include_all_commits=true&hide=stars,issues&show_icons=true&text_color=000000&title_color=000000&icon_color=000000)
 
 
