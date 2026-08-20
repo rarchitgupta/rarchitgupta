@@ -10,6 +10,8 @@ I'm **Archit Gupta**, a software engineer
 
 I'm passionate about building robust applications with a clean UI, currently upskilling with AI augmented development and learning how to build my own agents
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ### Connect with me:
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/rchitgupta)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/rarchit-gupta/)  &nbsp;   <a href="mailto:rarchitgupta@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
